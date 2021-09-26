@@ -4,12 +4,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@drawable/download"
+    android:background="@drawable/aaa"
     tools:context=".MainActivity">
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Menu Tampilan"
+        android:text="Paket Data"
         android:textSize="30sp"
         android:textStyle="bold"
         android:textColor="@color/white"
@@ -42,13 +42,13 @@
                     android:layout_width="120dp"
                     android:layout_height="120dp"
                     android:layout_gravity = "center_horizontal|center_vertical"
-                    android:src="@drawable/taxi">
+                    android:src="@drawable/download">
                 </ImageView>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
-                    android:text="Massage"
+                    android:text="Telkomsel"
                     android:textColor="@color/black"
                     android:textSize="20sp"
                     android:textStyle="bold">
@@ -75,13 +75,13 @@
                     android:layout_width="120dp"
                     android:layout_height="120dp"
                     android:layout_gravity = "center_horizontal|center_vertical"
-                    android:src="@drawable/calendar">
+                    android:src="@drawable/PPODeGG7_400x400">
                 </ImageView>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
-                    android:text="Calender"
+                    android:text="MyXL"
                     android:textColor="@color/black"
                     android:textSize="20sp"
                     android:textStyle="bold">
@@ -108,13 +108,13 @@
                     android:layout_width="120dp"
                     android:layout_height="120dp"
                     android:layout_gravity = "center_horizontal|center_vertical"
-                    android:src="@drawable/camera">
+                    android:src="@drawable/abc">
                 </ImageView>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
-                    android:text="Camera"
+                    android:text="Axis"
                     android:textColor="@color/black"
                     android:textSize="20sp"
                     android:textStyle="bold">
@@ -141,13 +141,13 @@
                     android:layout_width="120dp"
                     android:layout_height="120dp"
                     android:layout_gravity = "center_horizontal|center_vertical"
-                    android:src="@drawable/phone">
+                    android:src="@drawable/tree">
                 </ImageView>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
-                    android:text="Phone"
+                    android:text="Tree"
                     android:textColor="@color/black"
                     android:textSize="20sp"
                     android:textStyle="bold">
@@ -174,13 +174,13 @@
                     android:layout_width="120dp"
                     android:layout_height="120dp"
                     android:layout_gravity = "center_horizontal|center_vertical"
-                    android:src="@drawable/keychain">
+                    android:src="@drawable/images">
                 </ImageView>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
-                    android:text="Galeri"
+                    android:text="Smarfren"
                     android:textColor="@color/black"
                     android:textSize="20sp"
                     android:textStyle="bold">
@@ -207,13 +207,13 @@
                     android:layout_width="110dp"
                     android:layout_height="110dp"
                     android:layout_gravity = "center_horizontal|center_vertical"
-                    android:src="@drawable/diary">
+                    android:src="@drawable/indosat">
                 </ImageView>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
-                    android:text="Diary"
+                    android:text="Indosat"
                     android:textColor="@color/black"
                     android:textSize="20sp"
                     android:textStyle="bold">
